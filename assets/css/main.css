@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  font-family: monospace;
+}
+
+.mastHead {
+  width: 100%;
+  height: 12em;
+  background-color: #ffc107ba;
+  color: #000;
+  text-align: center;
+  padding: 1em 0;
+}
+
+h2 {
+  margin: 2em;
+}
+#search-keyword {
+  width: 20em;
+  height: 2em;
+  border: none;
+  border-radius: 0.6em;
+  outline: none;
+  padding-left: 1em;
+  margin: 0 1em;
+}
+
+#submit-btn {
+  width: 5em;
+  height: 2em;
+  text-align: center;
+  background-color: #4444bd;
+  color: #fff;
+  border: none;
+  border-radius: .5em;
+}
