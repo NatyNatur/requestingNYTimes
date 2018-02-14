@@ -16,7 +16,7 @@ h2 {
   margin: 2em;
 }
 #search-keyword {
-  width: 20em;
+  width: 15em;
   height: 2em;
   border: none;
   border-radius: 0.6em;
@@ -33,4 +33,23 @@ h2 {
   color: #fff;
   border: none;
   border-radius: .5em;
+}
+
+.articleClass {
+  list-style: none;
+  margin: 2% 4%;
+  border: 1px solid #00000029;
+  padding: 1em 2em;
+}
+
+#response-container {
+  padding: 0;
+}
+.newspaperIcon {
+  font-size: 1.5em;
+  padding: 0 0.2em;
+}
+
+.visuallyhidden {
+  display: none;
 }
